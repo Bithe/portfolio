@@ -1,0 +1,23 @@
+Static:
+Home
+about
+resume
+portfolio
+services
+testimonials
+contact
+
+
+dynamic :
+
+Name
+Profile image
+cover image
+about -> Birthday, age, website, phone, degree, Email, city,Freelance
+Facts -> clients, projects, Hours of support, hard workers
+resume -> Summary, Educaton, Professional experience, specialist
+my portfolio -> images
+
+pricing -> free, business, developer, ultimate eigular pirce
+
+
